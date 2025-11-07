@@ -1,5 +1,5 @@
 enum I18nKey {
-	hom= "home",
+	hom = "home",
 	about = "about",
 	archive = "archive",
 	search = "search",

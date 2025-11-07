@@ -64,7 +64,7 @@ export const profileConfig: ProfileConfig = {
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://twitter.com/0xthem7",
 		},
-    {
+		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/0xthem7",
