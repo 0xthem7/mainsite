@@ -1,0 +1,25 @@
+.site{
+  margin-top: 50px;
+  width: 800px;
+  border: 2px dashed black;
+  margin: 0 auto;
+}
+
+.nav{
+  display: flex;
+  justify-content: space-around;
+  gap: 30px;
+}
+
+
+
+.navbar{
+  display: flex;
+  width: 70px;
+  height: 30px;
+  background:green;
+  align-items: center;
+  color:white;
+}
+
+
